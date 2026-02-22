@@ -1,0 +1,5 @@
+{
+  "name": "Al-Qari: Quran Companion (by KS)",
+  "description": "A beautiful, mobile-first Quran application for reading, listening, and exploring the Quran with AI-powered insights. Developed by Kamran Sajad.",
+  "requestFramePermissions": ["microphone"]
+}
